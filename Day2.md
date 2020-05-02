@@ -1,8 +1,8 @@
 Levels Of Abstraction:
 
--SaaS: Includes softwares that are used on day to day basis in the industry. Eg., Tableau,Splunk,etc.
--PaaS: Includes developer facing services which are used by developers on day to day basis. Eg. MySQL,Hadoop,etc.
--IaaS: Includes raw computing resources. Eg. VMs(EC-2),Disks(Volume),etc.
+- SaaS: Includes softwares that are used on day to day basis in the industry. Eg., Tableau,Splunk,etc.
+- PaaS: Includes developer facing services which are used by developers on day to day basis. Eg. MySQL,Hadoop,etc.
+- IaaS: Includes raw computing resources. Eg. VMs(EC-2),Disks(Volume),etc.
 
 
 
