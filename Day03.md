@@ -18,7 +18,7 @@ In AWS, the .pem file that the user gets is a private key. The public key is set
 # <h4>Relative and Absolute Path:</h4>
 **Absolute Pathnames:**
 - It starts from the root and follows the tree branch until path to desired directory/file is reached.
-Eg: /home/ec2-user/main
+  Eg: /home/ec2-user/main
 
 
 **Relative Pathnames:**
