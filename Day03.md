@@ -6,12 +6,12 @@ In AWS, the .pem file that the user gets is a private key. The public key is set
 
 # <h4>Linux Commands:</h4>
 
-clear -> clear screen
-ls -> list dir/file
-pwd -> present working directory
-cd -> change directory
-mkdir -> make directory/create dierectory
-vi -> To create/open a file in Editor
+1. clear -> clear screen
+2. ls -> list dir/file
+3. pwd -> present working directory
+4. cd -> change directory
+5. mkdir -> make directory/create dierectory
+6. vi -> To create/open a file in Editor
 
 
 
