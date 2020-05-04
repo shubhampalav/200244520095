@@ -24,9 +24,9 @@ Eg: /home/ec2-user/main
 **Relative Pathnames:**
 - It starts from current directory and we can navigate to any directory(till root) using this.
 Eg: 
-- . -> Working directiry
-- .. -> Working directory's parent directory
-- ../.. -> Parent's Parent Directory
+- .      -> Working directiry
+- ..     -> Working directory's parent directory
+- ../..  -> Parent's Parent Directory
 
 
 
